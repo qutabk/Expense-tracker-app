@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883191179262",
+    "project_id": "exppro-7cbad",
+    "storage_bucket": "exppro-7cbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883191179262:android:4493e4fbaa1384ba4382af",
+        "android_client_info": {
+          "package_name": "com.example.expense_manager112"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883191179262-lpje3uha8japekqsuks3okbrfipuo3mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_manager112",
+            "certificate_hash": "12334976eabce04d677462ad9a65a39e251054c2"
+          }
+        },
+        {
+          "client_id": "883191179262-oretv15a8f258mjeseb29it8g0ojqvu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VtQGOWMS_imgQbBcfJyKRaedRHZy-q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883191179262-oretv15a8f258mjeseb29it8g0ojqvu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
